@@ -1,0 +1,13 @@
+jupyterlab
+ipywidgets
+
+numpy
+pandas
+scipy
+scikit-learn
+
+matplotlib
+seaborn
+
+torch
+torch_lr_finder
